@@ -414,7 +414,7 @@ footer img {
 }
 
 .alfa {
-background-image: url(img/IMG_5709.JPG); 
+background-image: url(../img/IMG_5709.JPG); 
     background-size: cover;
     width: 800px;
 height: 480px;
@@ -425,7 +425,7 @@ overflow: hidden;
 }
 
 .bravo {
-background-image: url(img/IMG_5709_1.jpg); 
+background-image: url(../img/IMG_5709_1.jpg); 
     background-size: cover;
 height: 530px;
     resize: none;
